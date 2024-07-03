@@ -20,7 +20,7 @@ if(PROJECT_IS_TOP_LEVEL)
     message("TermWriter")
     message("---")
     message("Printer with a verbose newline functionality.")
-    message("According to our license, you must NEVER use static linking with out library!")
+    message("According to our license, you must NEVER use static linking with this library!")
     message("====================================")
 endif()
 
